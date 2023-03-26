@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
-  "filename": "NewHorizonsTemplate.dll",
-  "author": "xen",
-  "name": "New Horizons Template",
-  "uniqueName": "xen.NewHorizonsTemplate",
+  "filename": "ShipBallpit.dll",
+  "author": "TerrificTrifid",
+  "name": "Ship Ballpit",
+  "uniqueName": "TerrificTrifid.ShipBallpit",
   "version": "0.1.0",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]

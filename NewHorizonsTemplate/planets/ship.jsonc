@@ -1,0 +1,553 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Ship",
+	
+	"Props": {
+		"details": [
+
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			}
+			
+
+
+			// ernestos
+			/*
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+
+
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 1, "z": 4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+
+
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": 0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+
+
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 2.5, "y": 2, "z": -0.5}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+
+
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": 1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+
+
+
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"position": {"x": -1, "y": 2, "z": -4}, "scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
+			}
+
+			*/
+		]
+	}
+}

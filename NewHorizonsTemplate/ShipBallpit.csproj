@@ -35,6 +35,6 @@
     <None Include="addon-manifest.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <Content Include="NewHorizonsTemplate.csproj.user" />
+    <Content Include="ShipBallpit.csproj.user" />
   </ItemGroup>
 </Project>

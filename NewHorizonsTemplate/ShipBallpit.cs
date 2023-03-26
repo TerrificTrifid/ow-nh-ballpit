@@ -11,7 +11,7 @@ using System.Linq;
 
 namespace NewHorizonsTemplate
 {
-    public class NewHorizonsTemplate : ModBehaviour
+    public class ShipBallpit : ModBehaviour
     {
         public INewHorizons NewHorizonsAPI;
 
