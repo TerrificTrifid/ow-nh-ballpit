@@ -1,3 +1,30 @@
 {
-	"enabled": true
+	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
+	"enabled": true,
+	"settings": {
+        "BallpitType": {
+            "title": "Ballpit type",
+			"tooltip": "Why stop at balls?",
+            "type": "selector",
+            "value": "Balls",
+            "options": [
+                "Balls",
+                "Rubber duckies",
+                "Solar system",
+                "Ernestos"
+            ]
+        },
+		"HatchCollider": {
+            "title": "Prevent escaping through hatch",
+			"tooltip": "If losing them causes sadness",
+            "type": "toggle",
+            "value": true
+        },
+		"CockpitCollider": {
+            "title": "Prevent entering cockpit",
+			"tooltip": "Funny when disabled, but makes flying more practical",
+            "type": "toggle",
+            "value": false
+        }
+    }
 }
