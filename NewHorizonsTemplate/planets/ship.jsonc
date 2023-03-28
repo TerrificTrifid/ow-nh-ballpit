@@ -16,51 +16,6 @@
 				// Solar system: Cockpit 1
 				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
 				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
-			},
-			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true
 			},*/
 
 
@@ -72,374 +27,369 @@
 
 
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (1)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (2)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (3)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (4)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (5)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (6)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (7)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (8)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 5.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (9)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 5.25}
-			},
-
-			
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 4.75}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 4.75}
-			},
-			
-
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 4.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
-
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (10)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.25, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (11)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.25, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (12)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.25, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (13)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.25, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (14)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.25, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (15)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (16)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (17)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (18)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 3.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (19)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 3.75}
-			},
-
-
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
-				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 1, "z": 3.25}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
 
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (30)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (31)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (32)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (33)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (34)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (35)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 1, "y": 1.25, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (36)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 1.25, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (37)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": 0, "y": 1.25, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (38)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 1.25, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit",
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (39)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
-				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0, "keepLoaded": true,
-				"position": {"x": -1, "y": 1.25, "z": 2.75}
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (40)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (41)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (42)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (43)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (44)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (45)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (46)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (47)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (48)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (49)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (50)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (51)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (52)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (53)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (54)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (55)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (56)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (57)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (58)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (59)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			
 
@@ -452,377 +402,370 @@
 
 
 
-
-
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (1)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (2)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (3)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (4)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (5)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (6)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (7)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (8)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (9)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 5.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
-			
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (10)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (11)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (12)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (13)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (14)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (15)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (16)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (17)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (18)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 4.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (19)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 4.75}
-			},
-			
-
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.25, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 4.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 4.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
-
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (20)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.25, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (21)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.25, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (22)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.25, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (23)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.25, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (24)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.25, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (25)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (26)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (27)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (28)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 3.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (29)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 3.75}
-			},
-
-
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.5, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 1, "z": 3.25}
-			},
-			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
-				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 1, "z": 3.25}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (30)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (31)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (32)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (33)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (34)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (35)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (36)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (37)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (38)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (39)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
 
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (40)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 0.75, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (41)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 0.75, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (42)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 0.75, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (43)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 0.75, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (44)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 0.75, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (45)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 1, "y": 1.25, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (46)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0.5, "y": 1.25, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (47)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": 0, "y": 1.25, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (48)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -0.5, "y": 1.25, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 			{
-				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit",
-				"path": "Anglerfish_Body/Beast_Anglerfish", "removeComponents": false, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"],
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (49)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
 				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
-				"position": {"x": -1, "y": 1.25, "z": 2.75}
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (50)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (51)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (52)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (53)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (54)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (55)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (56)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (57)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (58)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ernesto", "parentPath": "ShipSector/ShipBallpit/Ernestos/Cockpit/Spawn (59)",
+				"path": "Anglerfish_Body/Beast_Anglerfish", "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"], 
+				"scale": 0.005, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
 

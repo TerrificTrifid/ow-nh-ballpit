@@ -38,7 +38,7 @@ namespace NewHorizonsTemplate
 
         private bool CheckPhysics()
         {
-            return !Locator.GetShipTransform().Find("ShipSector/ShipBallpit/Ernestos/Cockpit/Ernesto"); // path is only valid before physics added, so return true when it becomes null
+            return !Locator.GetShipTransform().Find("ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn/RubberDuck"); // path is only valid before physics added, so return true when it becomes null
         }
 
         private void UpdateBallpit(String typeSetting, bool hatchSetting, bool cockpitSetting)
