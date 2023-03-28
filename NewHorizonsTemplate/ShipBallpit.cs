@@ -14,6 +14,7 @@ namespace NewHorizonsTemplate
     public class ShipBallpit : ModBehaviour
     {
         public INewHorizons NewHorizonsAPI;
+        public List<List<GameObject>> Balls;
 
         private void Start()
         {
@@ -26,6 +27,8 @@ namespace NewHorizonsTemplate
         {
             if (system == "SolarSystem")
             {
+                Balls = new List<List<GameObject>>();
+                FindBallRigidbodies();
                 var config = ModHelper.Config;
                 UpdateBallpit(config.GetSettingsValue<string>("BallpitType"), config.GetSettingsValue<bool>("HatchCollider"), config.GetSettingsValue<bool>("CockpitCollider"));
             }
@@ -50,9 +53,61 @@ namespace NewHorizonsTemplate
                     {
                         var ballpit = ballpits.GetChild(i).gameObject;
 
-                        // TODO: replace with better disabling process after improving hierarchy
-                        ballpit.SetActive(ballpit.name.Equals(typeSetting));
                         ballpit.transform.Find("Cockpit").gameObject.SetActive(!cockpitSetting);
+
+                        if (ballpit.name.Equals(typeSetting) && !ballpit.activeSelf)
+                        {
+                            ballpit.SetActive(true);
+
+                            for (int j = 0; j < Balls[i].Count; j++)
+                            {
+                                var ballRB = Balls[i][j].GetComponent<OWRigidbody>();
+                                ballRB.Unsuspend();
+                            }
+                        }
+                        else if (!ballpit.name.Equals(typeSetting) && ballpit.activeSelf)
+                        {
+
+                            for (int j = 0; j < Balls[i].Count; j++)
+                            {
+                                var ball = Balls[i][j];
+                                var ballRB = ball.GetComponent<OWRigidbody>();
+                                ballRB.Suspend();
+                                ball.transform.localPosition = Vector3.zero;
+                                ball.transform.localRotation = Quaternion.identity;
+                            }
+
+                            ModHelper.Events.Unity.FireOnNextUpdate(() => {
+                                ballpit.SetActive(false);
+                            });
+                        }
+                    }
+                });
+            });
+        }
+
+        private void FindBallRigidbodies()
+        {
+            ModHelper.Events.Unity.FireOnNextUpdate(() => {
+                ModHelper.Events.Unity.RunWhen(CheckPhysics, () => {
+                    var ballpits = Locator.GetShipTransform().Find("ShipSector/ShipBallpit");
+                    for (int i = 0; i < ballpits.childCount; i++)
+                    {
+                        Balls.Add(new List<GameObject>());
+                        var ballpit = ballpits.GetChild(i);
+                        for (int j = 0; j < ballpit.childCount; j++)
+                        {
+                            var group = ballpit.GetChild(j);
+                            for (int k = 0; k < group.childCount; k++)
+                            {
+                                var spawn = group.GetChild(k);
+                                if (spawn.childCount != 0)
+                                {
+                                    var ball = spawn.GetChild(0).gameObject;
+                                    Balls[i].Add(ball);
+                                }
+                            }
+                        }
                     }
                 });
             });
