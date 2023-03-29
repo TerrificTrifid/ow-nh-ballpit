@@ -20,6 +20,380 @@
 
 
 
+			// -----
+			// BALLS
+			// -----
+
+
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (36)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (37)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (38)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (39)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (40)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (41)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (42)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (43)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (44)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (45)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (46)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (47)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (48)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (49)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Red.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (50)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (51)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (52)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (53)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (54)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (55)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Orange.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (56)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Yellow.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (57)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Green.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (58)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Blue.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Ball", "parentPath": "ShipSector/ShipBallpit/Balls/Cockpit/Spawn (59)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Ball_Purple.prefab", 
+				"scale": 0.5, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			
+
+
 			// --------------
 			// RUBBER DUCKIES
 			// --------------
@@ -391,8 +765,6 @@
 				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
 				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
-			
-
 
 
 

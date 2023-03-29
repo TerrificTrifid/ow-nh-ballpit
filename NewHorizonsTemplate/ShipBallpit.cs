@@ -30,7 +30,7 @@ namespace NewHorizonsTemplate
                 Balls = new List<List<GameObject>>();
                 FindBallRigidbodies();
                 var config = ModHelper.Config;
-                UpdateBallpit(config.GetSettingsValue<string>("BallpitType"), config.GetSettingsValue<bool>("HatchCollider"), config.GetSettingsValue<bool>("CockpitCollider"));
+                UpdateBallpit(config.GetSettingsValue<string>("BallpitType"), config.GetSettingsValue<bool>("HatchCollider"), config.GetSettingsValue<bool>("CockpitCollider"), true);
             }
         }
 
@@ -41,13 +41,14 @@ namespace NewHorizonsTemplate
 
         private bool CheckPhysics()
         {
-            return !Locator.GetShipTransform().Find("ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn/RubberDuck"); // path is only valid before physics added, so return true when it becomes null
+            return !Locator.GetShipTransform().Find("ShipSector/ShipBallpit/Balls/Cockpit/Spawn/Ball"); // path is only valid before physics added, so return true when it becomes null
         }
 
-        private void UpdateBallpit(String typeSetting, bool hatchSetting, bool cockpitSetting)
+        private void UpdateBallpit(string typeSetting, bool hatchSetting, bool cockpitSetting, bool firstLoad = false)
         {
             ModHelper.Events.Unity.FireOnNextUpdate(() => {
                 ModHelper.Events.Unity.RunWhen(CheckPhysics, () => {
+                    var switchedFrom = "";
                     var ballpits = Locator.GetShipTransform().Find("ShipSector/ShipBallpit");
                     for (int i = 0; i < ballpits.childCount; i++)
                     {
@@ -55,10 +56,14 @@ namespace NewHorizonsTemplate
 
                         ballpit.transform.Find("Cockpit").gameObject.SetActive(!cockpitSetting);
 
-                        if (ballpit.name.Equals(typeSetting) && !ballpit.activeSelf)
+                        if (firstLoad)
+                        {
+                            if (!ballpit.name.Equals(typeSetting)) ballpit.SetActive(false);
+                        }
+
+                        else if (ballpit.name.Equals(typeSetting) && !ballpit.activeSelf)
                         {
                             ballpit.SetActive(true);
-
                             for (int j = 0; j < Balls[i].Count; j++)
                             {
                                 var ballRB = Balls[i][j].GetComponent<OWRigidbody>();
@@ -67,7 +72,7 @@ namespace NewHorizonsTemplate
                         }
                         else if (!ballpit.name.Equals(typeSetting) && ballpit.activeSelf)
                         {
-
+                            switchedFrom = ballpit.name;
                             for (int j = 0; j < Balls[i].Count; j++)
                             {
                                 var ball = Balls[i][j];
@@ -77,11 +82,11 @@ namespace NewHorizonsTemplate
                                 ball.transform.localRotation = Quaternion.identity;
                             }
 
-                            ModHelper.Events.Unity.FireOnNextUpdate(() => {
-                                ballpit.SetActive(false);
-                            });
+                            ballpit.SetActive(false);
                         }
                     }
+
+                    if (switchedFrom != "") ModHelper.Console.WriteLine("Switched from " + switchedFrom + " to " + typeSetting);
                 });
             });
         }
