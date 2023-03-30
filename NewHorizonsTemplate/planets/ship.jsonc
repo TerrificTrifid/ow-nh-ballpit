@@ -11,12 +11,12 @@
 			{
 				"rename": "HatchCollider",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/BallpitCollider.prefab", 
-				"position": {"x": 0, "y": 0.03, "z": 0}, "stretch": {"x": 2.5, "y": 1, "z": 2.5}, "keepLoaded": true
+				"position": {"x": 0, "y": 0.02, "z": 0}, "stretch": {"x": 2.5, "y": 1, "z": 3}, "keepLoaded": true
 			},
 			{
 				"rename": "CockpitCollider",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/BallpitCollider.prefab", 
-				"position": {"x": 0, "y": 2, "z": 0}, "stretch": {"x": 1, "y": 1, "z": 1}, "keepLoaded": true
+				"position": {"x": 0, "y": 2, "z": 3.5}, "stretch": {"x": 3.5, "y": 3, "z": 3}, "keepLoaded": true
 			},
 
 
@@ -770,6 +770,474 @@
 			},
 			{
 				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Cockpit/Spawn (59)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Supplies/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (36)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (37)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (38)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "RubberDuck", "parentPath": "ShipSector/ShipBallpit/Rubber duckies/Shiplog/Spawn (39)",
 				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/RubberDuck.prefab", 
 				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
 				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
