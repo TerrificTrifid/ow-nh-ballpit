@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1436010339
+CRC: 1171945440
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 868b5a430315082587c5d7332c6d7ddc
+    Hash: c84e9b18b11ee6e202e8a347d9d95388
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1563fa3e7ef3763b23812e3503d5b787
+    Hash: 39e93c7173458043afa5a39a756cf02e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,11 +27,18 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f3014da1c89ce2573a27c371d8ccd9f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Ship Ballpit/Ball_Red.prefab
+- Assets/Ship Ballpit/BallpitCollider.prefab
 - Assets/Ship Ballpit/Ball_Blue.prefab
 - Assets/Ship Ballpit/Empty.prefab
 - Assets/Ship Ballpit/RubberDuck.prefab

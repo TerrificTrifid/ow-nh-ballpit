@@ -16,7 +16,7 @@
         },
 		"HatchCollider": {
             "title": "Prevent escaping through hatch",
-			"tooltip": "If losing them causes sadness",
+			"tooltip": "Warning: losing balls is known to cause sadness (and bugs)",
             "type": "toggle",
             "value": true
         },

@@ -48,8 +48,13 @@ namespace NewHorizonsTemplate
         {
             ModHelper.Events.Unity.FireOnNextUpdate(() => {
                 ModHelper.Events.Unity.RunWhen(CheckPhysics, () => {
+                    var ship = Locator.GetShipTransform();
+
+                    ship.Find("ShipSector/HatchCollider").gameObject.SetActive(hatchSetting);
+                    ship.Find("ShipSector/CockpitCollider").gameObject.SetActive(cockpitSetting);
+
                     var switchedFrom = "";
-                    var ballpits = Locator.GetShipTransform().Find("ShipSector/ShipBallpit");
+                    var ballpits = ship.Find("ShipSector/ShipBallpit");
                     for (int i = 0; i < ballpits.childCount; i++)
                     {
                         var ballpit = ballpits.GetChild(i).gameObject;
