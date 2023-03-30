@@ -72,7 +72,7 @@ namespace NewHorizonsTemplate
                             for (int j = 0; j < Balls[i].Count; j++)
                             {
                                 var ballRB = Balls[i][j].GetComponent<OWRigidbody>();
-                                ballRB.Unsuspend();
+                                ballRB.Unsuspend(false);
                             }
                         }
                         else if (!ballpit.name.Equals(typeSetting) && ballpit.activeSelf)
