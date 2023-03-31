@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace NewHorizonsTemplate
+namespace ShipBallpit
 {
     public interface INewHorizons
     {
