@@ -10,8 +10,8 @@
             "options": [
                 "Balls",
                 "Rubber duckies",
-                "Solar system",
-                "Ernestos"
+                "Ernestos",
+				"Cacti"
             ]
         },
 		"HatchCollider": {

@@ -2553,9 +2553,1685 @@
 				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
 			},
 
-
-
 			
+
+			// -----
+			// CACTI
+			// -----
+
+
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (36)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (37)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (38)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (39)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (40)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (41)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (42)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (43)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (44)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (45)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (46)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (47)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (48)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (49)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (50)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (51)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (52)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (53)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (54)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (55)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (56)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (57)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (58)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (59)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (1)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (2)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (3)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (4)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (5)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (6)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (7)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (8)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (9)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (10)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (11)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (12)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (13)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (14)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (15)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (16)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (17)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (18)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (19)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (20)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (21)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (22)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (23)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (24)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (25)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (26)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (27)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (28)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (29)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (30)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (31)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (32)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (33)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (34)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (35)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (36)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (37)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (38)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "Cactus", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (39)",
+				"assetBundle": "planets/trifid_shipballpit", "path": "Assets/Ship Ballpit/Cactus.prefab", 
+				"scale": 1, "hasPhysics": true, "physicsMass": 0.00005, "physicsRadius": 0.25, "keepLoaded": true,
+				"position": {"x": 0, "y": 0, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (1)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (2)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (3)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (4)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (5)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (6)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (7)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (8)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (9)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (10)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (11)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (12)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (13)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (14)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (15)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (16)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (17)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (18)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (19)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (20)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (21)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (22)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (23)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (24)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (25)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (26)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (27)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (28)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (29)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (30)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (31)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (32)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (33)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (34)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (35)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (36)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (37)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (38)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (39)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (40)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (41)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (42)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (43)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (44)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (45)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (46)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (47)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (48)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (49)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (50)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (51)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (52)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (53)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (54)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (55)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (56)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (57)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (58)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Cockpit/Spawn (59)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (1)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (2)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (3)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (4)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (5)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (6)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (7)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (8)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (9)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (10)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (11)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (12)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (13)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (14)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (15)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (16)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (17)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (18)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (19)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (20)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (21)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (22)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (23)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (24)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (25)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (26)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (27)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (28)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (29)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (30)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (31)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (32)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (33)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (34)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Supplies/Spawn (35)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (1)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (2)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (3)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (4)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (5)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (6)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (7)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (8)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (9)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (10)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (11)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (12)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (13)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (14)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (15)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (16)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (17)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (18)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (19)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (20)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (21)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (22)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (23)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (24)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (25)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (26)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (27)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (28)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (29)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (30)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (31)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (32)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (33)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (34)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (35)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (36)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (37)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (38)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
+			{
+				"rename": "CactusProp", "parentPath": "ShipSector/ShipBallpit/Cacti/Shiplog/Spawn (39)/Cactus",
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A/Props_HGT_Cactus_Single_A/Main_HGT_Cactus_Single_A", "removeChildren": ["COL_HGT_Cactus_Single_A"], 
+				"scale": 0.26, "keepLoaded": true,
+				"position": {"x": 0, "y": -0.25, "z": 0}, "isRelativeToParent": true
+			},
 		]
 	}
 }
