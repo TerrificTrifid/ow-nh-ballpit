@@ -6,7 +6,7 @@
             "title": "Ballpit type",
 			"tooltip": "Why stop at balls?",
             "type": "selector",
-            "value": "Balls",
+            "value": "Cacti",
             "options": [
                 "Balls",
                 "Rubber duckies",

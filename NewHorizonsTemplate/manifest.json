@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
   "filename": "ShipBallpit.dll",
   "author": "TerrificTrifid",
-  "name": "Ship Ballpit",
+  "name": "Ship Ball Pit",
   "uniqueName": "TerrificTrifid.ShipBallpit",
   "version": "0.1.0",
   "owmlVersion": "2.7.2",
