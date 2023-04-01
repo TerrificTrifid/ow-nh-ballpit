@@ -1,4 +1,2 @@
-# Outer Wilds planet creation mod template
- A template project for adding planets to Outer Wilds with [New Horizons](https://github.com/xen-42/outer-wilds-new-horizons).
-
-If you don't know how to code or only want to be editing json configs, use the [config template](https://github.com/xen-42/ow-new-horizons-config-template).
+# Ship Ball Pit
+![shipballpit1](https://user-images.githubusercontent.com/99054745/229260522-2d4f6782-47c3-4fce-9c5d-b7d3d7478a83.png)
