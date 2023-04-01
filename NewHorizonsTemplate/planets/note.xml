@@ -1,0 +1,14 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">	
+	<NameField>SIGN</NameField>
+	
+	<DialogueNode>
+		<Name>0</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>Other ball flavors are avaliable in the mod's options by the way, if this is a little too strong for your taste ::)</Page>
+		</Dialogue>
+
+		<SetPersistentCondition>SBP_ReadNote</SetPersistentCondition>
+	</DialogueNode>
+
+</DialogueTree>

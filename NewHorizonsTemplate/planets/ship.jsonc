@@ -3,6 +3,15 @@
 	"name" : "Ship",
 	
 	"Props": {
+		"dialogue": [
+			{
+				"rename": "Note",
+				"xmlFile": "planets/note.xml",
+				"position": {"x": 0, "y": 1.454379, "z": 6.4389},
+				"radius": 1,
+				"range": 3
+			}
+		],
 		"details": [
 
 			{
@@ -20,12 +29,10 @@
 			},
 
 
-			/*
 			{
-				// Solar system: Cockpit 1
-				"path": "VolcanicMoon_Body/Sector_VM/Proxy_VM", "removeComponents": true, "removeChildren": ["B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end", "B_angler_root/B_angler_body01/B_angler_body02/B_angler_jaw/Beast_Anglerfish_Collider_Mouth"],
-				"position": {"x": 1, "y": 1, "z": 4}, "scale": 0.0025, "hasPhysics": true, "physicsMass": 0.000025, "physicsRadius": 0.25, "keepLoaded": true
-			},*/
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Interactables_Village/Props_HEA_SignPost (1)/GossanNote/plaque_paper_1 (1)", "rotation": {"x": 270, "y": 0, "z": 0},
+				"position": {"x": 0, "y": 1.454379, "z": 6.4389}, "keepLoaded": true
+			},
 
 
 

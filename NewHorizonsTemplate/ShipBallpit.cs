@@ -16,6 +16,7 @@ namespace ShipBallpit
     {
         public INewHorizons NewHorizonsAPI;
         public List<List<GameObject>> Balls;
+        public GameObject note;
 
         public void Awake()
         {
@@ -37,7 +38,30 @@ namespace ShipBallpit
                 FindBallRigidbodies();
                 var config = ModHelper.Config;
                 UpdateBallpit(config.GetSettingsValue<string>("BallpitType"), config.GetSettingsValue<bool>("HatchCollider"), config.GetSettingsValue<bool>("CockpitCollider"), true);
+
+                ModHelper.Events.Unity.FireOnNextUpdate(() => {
+                    var ship = Locator.GetShipTransform().Find("ShipSector");
+                    var dialogue = ship.Find("Note");
+                    var paper = ship.Find("plaque_paper_1 (1)");
+                    if (PlayerData._currentGameSave.GetPersistentCondition("SBP_ReadNote"))
+                    {
+                        dialogue.gameObject.SetActive(false);
+                        paper.gameObject.SetActive(false);
+                    }
+                    else
+                    {
+                        note = dialogue.gameObject;
+                        dialogue.GetComponent<InteractReceiver>()._usableInShip = true;
+                        dialogue.GetComponent<CharacterDialogueTree>().OnEndConversation += RemoveNote;
+                        paper.SetParent(dialogue);
+                    }
+                });
             }
+        }
+
+        public void RemoveNote()
+        {
+            note.SetActive(false);
         }
 
         public override void Configure(IModConfig config)
