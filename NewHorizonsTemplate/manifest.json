@@ -4,7 +4,7 @@
   "author": "TerrificTrifid",
   "name": "Ship Ball Pit",
   "uniqueName": "TerrificTrifid.ShipBallpit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
 }

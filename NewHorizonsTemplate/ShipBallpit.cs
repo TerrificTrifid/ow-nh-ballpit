@@ -91,12 +91,12 @@ namespace ShipBallpit
 
                         ballpit.transform.Find("Cockpit").gameObject.SetActive(!cockpitSetting);
 
-                        if (firstLoad)
+                        /*if (firstLoad)
                         {
                             if (!ballpit.name.Equals(typeSetting)) ballpit.SetActive(false);
                         }
 
-                        else if (ballpit.name.Equals(typeSetting) && !ballpit.activeSelf)
+                        else*/ if (ballpit.name.Equals(typeSetting) && !ballpit.activeSelf)
                         {
                             ballpit.SetActive(true);
                             for (int j = 0; j < Balls[i].Count; j++)
@@ -126,7 +126,7 @@ namespace ShipBallpit
             });
         }
 
-        private void FindBallRigidbodies()
+        private void FindBallRigidbodies() // todo: identify with component in bundle and keep loaded true, instead of this and keep loaded false
         {
             ModHelper.Events.Unity.FireOnNextUpdate(() => {
                 ModHelper.Events.Unity.RunWhen(CheckPhysics, () => {
